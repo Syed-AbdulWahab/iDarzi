@@ -1,3 +1,3 @@
 # iDarzi
-https://syed-abdulwahab.github.io/Ecommerce/
+https://syed-abdulwahab.github.io/iDarzi/
 
